@@ -9,5 +9,3 @@ New sring
 stepik.json
 
 commit test
-stepik1.txt
-stepik2.txt
